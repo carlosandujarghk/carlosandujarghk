@@ -4,9 +4,8 @@
 
 - <b>Virtual Box and Active Directory</b>
   - [Domain Controller Setup](https://github.com/carlosandujarghk/virtualboxadsetup)
-
 - <b>DNS</b>
-  - [DNS Configuration and Name Resolution](https://github.com/joshmadakorcc/configure-ad)
+  - [DNS Configuration and Name Resolution](https://github.com/carlosandujarghk/DNSconfigsetup)
   
 <h2>🤳Connect with me:</h2>
 
