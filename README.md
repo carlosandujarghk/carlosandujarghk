@@ -5,10 +5,9 @@
 - <b>Virtual Box and Active Directory</b>
   - [Domain Controller Setup](https://github.com/carlosandujarghk/virtualboxadsetup)
 
-- <b>DNS Configuration and Name Resolution</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+- <b>DNS</b>
+  - [DNS Configuration and Name Resolution](https://github.com/joshmadakorcc/configure-ad)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Carlos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
